@@ -8,7 +8,7 @@
 
     <groupId>com.ilyamur</groupId>
     <artifactId>agate-future</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>agate-future</name>
@@ -22,15 +22,15 @@
     <distributionManagement>
 
         <repository>
-            <id>nexus-ambercomb</id>
-            <name>nexus-ambercomb</name>
-            <url>https://nexus-ambercomb.rhcloud.com/content/repositories/releases/</url>
+            <id>nexus-ilyamur</id>
+            <name>nexus-ilyamur</name>
+            <url>https://nexus-ilyamur.rhcloud.com/content/repositories/releases/</url>
         </repository>
 
         <snapshotRepository>
-            <id>nexus-ambercomb</id>
-            <name>nexus-ambercomb</name>
-            <url>https://nexus-ambercomb.rhcloud.com/content/repositories/snapshots/</url>
+            <id>nexus-ilyamur</id>
+            <name>nexus-ilyamur</name>
+            <url>https://nexus-ilyamur.rhcloud.com/content/repositories/snapshots/</url>
         </snapshotRepository>
 
     </distributionManagement>
